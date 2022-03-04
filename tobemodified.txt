@@ -1,0 +1,1314 @@
+🔰Python 🐍🆓 Learning Resources🔰 
+(Here are some 🆓 resources which you can refer to learn Python Programming🤓)
+
+👉Intro to Python Free Udacity Course: https://www.udacity.com/course/introduction-to-python--ud1110
+
+👉Python Free Course with Certificate: https://www.freecodecamp.org/learn/scientific-computing-with-python/
+
+👉Automate Boring Stuff with Python Free Book : https://automatetheboringstuff.com/2e/
+
+👉Machine Learning with Python Free Course : https://www.freecodecamp.org/learn/machine-learning-with-python/
+
+👉Python Engineer Github Notebook: https://github.com/python-engineer/python-engineer-notebooks/tree/master/advanced-python
+
+👉Python Tutorials from Kaggle : https://www.kaggle.com/learn/python
+https://tiny.one/FREELearningResources
+
+Java Software Construction course by MIT
+https://onlinecourses.nptel.ac.in/noc22_cs31/preview
+
+#Freehai 🤗
+🔰ML Course by MIT
+Introduction to Machine Learning
+No registration, no download. Just learn for FREE from the Best🤩
+https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about
+Full Computer Science 50, 2021 by Harvard University
+No need to download/register. Just learn for FREE from the Best✨
+
+https://cs50.harvard.edu/college/2021/spring/weeks/0/
+An MIT Press book on Deep Learning
+By : Ian Goodfellow and Yoshua Bengio and Aaron Courville
+
+Book for the field of machine learning in general and deep learning in particular.
+
+https://www.deeplearningbook.org/
+🔰CS 50 2022 by Harvard University
+No need to download/register. Just learn for FREE from the Best✨
+
+https://cs50.harvard.edu/x/2022/
+
+Hope it helps🤟
+Previously shared resources 👉 https://tiny.one/FREELearningResources
+Some are uploaded on https://tiny.one/FREELearningResources
+MIT Course
+Programming for the Puzzled🧩 No download/register. Just learn from the Best✨
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018/
+https://tiny.one/FREELearningResources
+
+Java Software Construction course by MIT
+30-DSA🔰Complete Introduction to the 30 most essential Data Structures & Algorithms, 💯FREE🤩
+
+https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd
+
+Hope it helps🤟
+Previously shared resources 👉 https://tiny.one/FREELearningResources
+Check out "Coding C - The offline C language compiler"
+https://play.google.com/store/apps/details?id=com.kvassyu.coding2.c
+Check out "Programming Problems Solving : C,C++, Java ,Python"
+https://play.google.com/store/apps/details?id=com.programmingproblem.lazycoder
+https://itsfoss.com/best-open-source-internships/
+
+All are requested to see this.
+
+This is the list of some internships.
+IIT Kharagpur has created National Digital Library for students for all subjects.  Below is the link
+:
+
+          ndl.iitkgp.ac.in.
+
+It contains 4 crore 6O lakh books.  Please share this information as much as possible for students to know & avail of this priceless facility for academic knowledge.
+https://dare2compete.com/
+
+Here you can find different type of HACKATHONS and coding contests
+Students studying in 1st and 2nd year can follow a great and free resource compiled at a place for learning core CS subjects. 
+ https://github.com/ossu/computer-science
+If anyone wants to learn DSA👨‍💻
+ with easy and visualised way⚡️
+for free😍
+Then you can check here 
+
+https://codingpal.org/
+For web development : CodersGyan
+https://youtube.com/c/CodersGyan
+https://www.notion.so/FREE-Resources-for-Learning-Data-Structures-Updated-2021-543f3be4d8b04303a7ceb78a7d695d4f
+
+Best Resources (YouTube Channels & Reference & Practice Site) for Data Structure & Algorithms in both Java & C++
+💎- .NET FRAMEWORK-
+
+https://books.goalkicker.com/DotNETFrameworkBook/
+
+💎- Algorithms-
+
+https://books.goalkicker.com/AlgorithmsBook/
+
+💎- Android-
+
+https://books.goalkicker.com/AndroidBook/
+
+💎- Angular 2
+
+https://books.goalkicker.com/Angular2Book/
+
+💎- Angular JS 
+
+https://books.goalkicker.com/AngularJSBook/
+
+💎- BASH 
+
+https://books.goalkicker.com/BashBook/
+
+💎- C 
+
+https://books.goalkicker.com/CBook/
+
+💎- C++
+
+https://t.me/programming_guide/80
+
+💎- C#
+
+https://books.goalkicker.com/CSharpBook/
+
+💎- CSS
+
+https://books.goalkicker.com/CSSBook/
+
+💎- Entity Framework-
+
+https://books.goalkicker.com/EntityFrameworkBook/
+
+💎- Excel VBA
+
+https://books.goalkicker.com/ExcelVBABook/
+
+💎- GIT 
+
+https://books.goalkicker.com/GitBook/
+
+💎- Haskell
+
+https://books.goalkicker.com/HaskellBook/
+
+💎- Hibernate
+
+https://books.goalkicker.com/HibernateBook/
+
+💎- HTML 5
+
+https://books.goalkicker.com/HTML5Book/
+
+💎- HTML5 CANVAS
+
+https://books.goalkicker.com/HTML5CanvasBook/
+
+💎- iOS
+
+https://books.goalkicker.com/iOSBook/
+
+💎- JAVA 
+
+https://books.goalkicker.com/JavaBook/
+
+💎- JAVA SCRIPT
+
+https://books.goalkicker.com/JavaScriptBook/
+
+💎- jQuery
+
+https://books.goalkicker.com/jQueryBook/
+
+💎- KOTLIN
+
+https://books.goalkicker.com/KotlinBook/
+
+💎- LaTex
+
+https://books.goalkicker.com/LaTeXBook/
+
+💎- Linux
+
+https://books.goalkicker.com/LinuxBook/
+
+💎 MATLAB
+
+https://books.goalkicker.com/MATLABBook/
+
+💎- Microsoft SQL Server
+
+https://books.goalkicker.com/MicrosoftSQLServerBook/
+
+💎- MongoDB
+
+https://books.goalkicker.com/MongoDBBook/
+
+💎 MySQL
+
+https://books.goalkicker.com/MySQLBook/
+
+💎- NodeJS
+
+https://books.goalkicker.com/NodeJSBook/
+
+💎- Objective-C.   
+
+https://books.goalkicker.com/ObjectiveCBook/
+
+💎- Oracle DB 
+
+https://books.goalkicker.com/OracleDatabaseBook/
+
+💎- Perl  
+https://books.goalkicker.com/PerlBook/
+
+💎 PHP
+
+https://books.goalkicker.com/PHPBook/
+
+💎 PostgreSQL
+
+https://books.goalkicker.com/PostgreSQLBook/
+
+💎- PowerShell
+
+https://books.goalkicker.com/PowerShellBook/
+
+💎- Python
+
+https://t.me/programming_guide/76
+
+💎 R  
+
+https://books.goalkicker.com/RBook/
+
+💎 React JS   
+
+https://books.goalkicker.com/ReactJSBook/
+
+💎- React Native.  
+
+https://books.goalkicker.com/ReactNativeBook/
+
+💎- Ruby   
+
+https://books.goalkicker.com/RubyBook/
+
+💎- Ruby on Rails
+
+https://books.goalkicker.com/RubyOnRailsBook/
+
+💎- Spring Framework
+
+https://books.goalkicker.com/SpringFrameworkBook/
+
+💎 SQL    
+
+https://books.goalkicker.com/SQLBook/
+
+💎- Swift   
+
+https://books.goalkicker.com/SwiftBook/
+
+💎 Type Script
+
+https://books.goalkicker.com/TypeScriptBook2/
+
+💎 VBA    
+
+https://books.goalkicker.com/VBABook/
+
+💎Visual Basic .Net   
+
+https://books.goalkicker.com/VisualBasic_NETBook/
+
+💎 Xamarin.Forms   
+https://books.goalkicker.com/XamarinFormsBook/
+🔰50 Great Websites For Web Developers🔰
+
+1. Hidden Tools -
+https://hiddentools.dev/
+
+2. Music For Programming -
+https://musicforprogramming.net/
+
+3. Programming Language Convertor -
+https://ide.onelang.io/
+
+4. HTTP Cat -
+https://http.cat/
+
+5. Iconscout -
+https://iconscout.com/
+
+6. CSS Zen Garden -
+http://www.csszengarden.com/
+
+7. A List Apart -
+https://alistapart.com/
+
+8. Code Project -
+https://www.codeproject.com/
+
+9. Scotch -
+https://scotch.io/
+
+10. TutsPlus -
+https://tutsplus.com/
+
+11. Creative Blog -
+https://www.creativebloq.com/
+
+12. Codrops -
+https://tympanus.net/codrops/
+
+13. MDN Web Docs -
+https://developer.mozilla.org/zh-CN/
+
+14. The Odin Project -
+https://www.theodinproject.com/
+
+15. Code Wars -
+https://www.codewars.com/
+
+16. WpSessions -
+https://wpsessions.com/
+
+17. CSS Autor -
+https://cssauthor.com/
+
+18. Laracasts -
+https://laracasts.com/
+
+19. Web Design News -
+https://www.webdesignernews.com/
+
+20. UX Movement -
+https://uxmovement.com/
+
+21. Gradient Magic -
+https://www.gradientmagic.com/
+
+22. Trianglify -
+https://trianglify.io/
+
+23. CSS Tricks -
+https://css-tricks.com/
+
+24. Free Frontend -
+https://freefrontend.com/
+
+25. Code My UI -
+https://codemyui.com/
+
+26. CSS Reference -
+https://cssreference.io/
+
+27. HTML Reference -
+https://htmlreference.io/
+
+28. Frontend Mentor -
+https://www.frontendmentor.io/
+
+29. Site Point -
+https://www.sitepoint.com/
+
+30. Free CSS -
+https://www.free-css.com/
+
+31. Awesome Python -
+https://pythonawesome.com/
+
+32. Fun JavaScript Projects -
+https://fun-javascript-projects.com/
+
+33. Daily Dev -
+https://daily.dev/
+
+34. Dev Docs -
+https://devdocs.io/
+
+35. ShortCode Dev -
+https://shortcode.dev/
+
+36. What Runs -
+https://www.whatruns.com/
+
+37. 1LOC -
+https://1loc.dev/
+
+38. Web Code Tools -
+https://webcode.tools/
+
+39. Am i Responsive -
+http://ami.responsivedesign.is/
+
+40. Shape Divider -
+https://www.shapedivider.app/
+
+41. Fancy Border Radius -
+https://9elements.github.io/fancy-border-radius/
+
+42. CSS Gradient -
+https://cssgradient.io/
+
+43. CSS Clip Path -
+https://bennettfeely.com/clippy/
+
+44. CSS Layout -
+https://csslayout.io/
+
+45. 30 Seconds Of Code -
+https://www.30secondsofcode.org/
+
+46. Undraw -
+https://undraw.co/
+
+47. Humaaans -
+https://www.humaaans.com/
+
+48. W3 Layouts -
+https://w3layouts.com/
+
+49. Templatemo -
+https://templatemo.com/
+
+50. Tooplate -
+https://www.tooplate.com/
+https://youtu.be/iU1uqnPtcQw
+Large tech companies (7) 
+1.  Google 
+2.  Amazon
+3.  Apple 
+4.  Facebook
+5.  Tesla
+6.  Microsoft
+7.  Adobe
+Industry focused tech company (36)
+1.  Uber
+2.  Code Nation
+3.  Sprinklr
+4.  Saleforce
+5.  ServiceNow
+6.  Indeed
+7.  LinkedIn
+8.  OCI
+9.  Atlassian
+10.  Twilio
+11.  Twitter
+12.  Zoom
+13.  Observe.ai
+14.  Slack
+15.  Airtel X Labs
+16.  Walmart
+17.  Tesco
+18.  Target
+19.  Bloomreach
+20.  NetApp
+21.  Nutanix
+22.  UiPath
+23.  Media.net
+24.  Paypal
+25.  Visa
+26.  Airbnb
+27.  Expedia
+28.  Gropon
+29.  Cadence Inc
+30.  Directi
+31.  Qualcomm
+32.  VMware
+33.  Nvidia
+34.  Arista Networks
+35.  Palo Alto Networks
+36.  Nike
+Fintech Company (12)
+1.  Tower research Capital
+2.  Graviton Research 
+3.  World Quant
+4.  De Shaw
+5.  Goldman sachs
+6.  Arcesium
+7.  Intuit
+8.  JP Morgan
+9.  Morgan Stanley
+10.  Fidelity Investment
+11.  Wells Fargo
+12.  Druva
+
+Indian Product Based Startups (35) 
+1.  Flipkart
+2.  CureFit
+3.  Myntra
+4.  Udaan
+5.  Ajio
+6.  PharmaEasy
+7.  Urban Company
+8.  Meesho
+9.  Nurture.farm
+10.  RazorPay
+11.  Zeta
+12.  Phonepe
+13.  AvailFinace
+14.  ClearTax
+15.  Paytm
+16.  Rupeek
+17.  Jupitar Money
+18.  Juspay
+19.  Dream 11
+20.  MPL
+21.  Zynga
+22.  Hotstar
+23.  Flock
+24.  Inmobi
+25.  Sharechat
+26.  Swiggy
+27.  Zomato
+28.  Rivigo
+29.  Delhivery
+30.  Ola
+31.  Voga 
+32.  Dunzo
+33.  Freshworks
+34.  Wooqer
+35.  Oyo
+
+International Product based Startups(10) 
+1.  Rubrik
+2.  Cohesity
+3.  Tekion Corp
+4.  Harness
+5.  Compass Inc
+6.  Gojek 
+7.  Grab
+8.  Impact Analytics
+9.  Oppo
+10.  Turvo Inc.
+30-DSA🔰Complete Introduction to the 30 most essential Data Structures & Algorithms, 💯FREE🤩
+
+https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd
+
+Hope it helps🤟
+Previously shared resources 👉 https://tiny.one/FREELearningResources
+Download any udemy courses :-
+https://freeeducationweb.com
+https://freecourseudemy.com
+https://coursesdaily.com
+https://getfreecourses.me
+https://www.onlinefreecourse.net
+https://paidcoursesforfree.com
+https://99udemy.com
+
+
+Secure mail :-
+https://outlook.live.com 
+https://protonmail.com 
+https://tutanota.com
+https://www.zoho.com/mail/
+https://www.thexyz.com
+https://www.startmail.com
+https://countermail.com
+https://posteo.de/en
+
+
+Cloud storage :-
+https://www.zippyshare.com
+https://bit.ai
+https://jumpshare.com
+https://www.microsoft.com/en-in/microsoft-365/onedrive/online-cloud-storage
+https://www.box.com/en-in/home
+https://www.hightail.com
+https://www.dropsend.com
+
+
+Upload files and earn money :- 
+https://www.upload-4ever.com
+https://dropgalaxy.com
+https://www.indishare.org
+https://www.file-upload.com/
+https://up-load.io
+
+
+Download movie :-
+https://fullmoviesfreedownload.co/tag/movieflixter
+https://o2tvseries.in
+https://yts.rs
+https://youtube.com
+https://azmovie.to
+https://ww1.1337x.buzz
+
+
+Cracking software :-
+https://www.techno360.in
+https://sharewareonsale.com
+https://giveaway.tickcoupon.com
+https://getintopc.com
+https://rarbg.to 
+https://torrents.me
+http://torrentdb.li
+https://www.limetorrents.cc
+
+
+Game hacking :-
+https://xmodgames.apkiz.com/download-xmod-games/
+https://www.luckypatchers.com/download/
+https://sbgamehacker.net
+https://hackerbot.net
+https://gamekiller.co
+https://creehacks.net
+https://www.cheatengine.org
+https://www.bignox.com
+
+
+Build application without coding :-
+https://www.andromo.com
+https://appsgeyser.com
+https://www.appypie.com/app-builder/appmaker
+https://gamesalad.com
+https://www.appypie.com
+https://appery.io
+
+
+For students :-
+https://www.edx.org
+https://academicearth.org
+https://archive.org
+https://bigthink.com
+https://www.brightstorm.com
+https://cosmolearning.org
+https://thefutureschannel.com
+https://www.howcast.com
+https://www.khanacademy.org
+
+
+Code editor ( android ) :- 
+Dcoder :- https://bit.ly/37dFg0I
+Quoda Code Editor :- https://bit.ly/37f9Jf4
+QuickEdit :- https://bit.ly/3zRUCUW
+DroidEdit :- https://bit.ly/2V1PUFz
+Turbo-Editor :- https://bit.ly/3ljibCc
+
+
+Presonal data leak checker :-
+https://haveibeenpwned.com
+https://breachalarm.com
+https://www.dehashed.com
+https://sitecheck.sucuri.net
+
+
+Premium accounts :-
+https://www.nulled.to
+http://password-login.com
+http://bugmenot.com
+https://breachforums.com.cutestat.com
+https://www.ax0nes.com
+https://cracked.to
+https://crackingking.com
+https://www.crackingpro.com
+https://crackingtutor1al.blogspot.com/?m=1
+
+
+Best game development engines :-
+https://www.cryengine.com
+https://unity.com
+https://www.yoyogames.com/en/gamemaker
+https://godotengine.org
+https://www.cocos.com/en/
+
+
+Information Gathering with online websites :-
+https://sitereport.netcraft.com
+https://www.yougetsignal.com/tools/web-sites-on-web-server/
+Robots.txt
+IIT Kharagpur has created National Digital Library for students for all subjects.  Below is the link
+:
+
+          ndl.iitkgp.ac.in.
+
+It contains 4 crore 6O lakh books.  Please share this information as much as possible for students to know & avail of this priceless facility for academic knowledge.
+This is the C programming for beginners course of Udemy (paid)😅....this is all I have for now
+
+https://drive.google.com/u/0/uc?export=download&confirm=TFhc&id=13vgEmD9WMJ8y-G68cm24Q2STFnf70V7s
+🔥DSA PDFs/Books 🔥
+
+Hello Friends ! Here is a free DSA book for you ❤️
+
+Download or save this link ASAP cause ill delete this after some time 😇
+
+https://drive.google.com/drive/folders/1YCtYaSzzuqNulW6c7Rz_D735jzubxwI2?usp=sharing
+Download any udemy courses :-
+https://freeeducationweb.com
+https://freecourseudemy.com
+https://coursesdaily.com
+https://getfreecourses.me
+https://www.onlinefreecourse.net
+https://paidcoursesforfree.com
+https://99udemy.com
+
+
+Secure mail :-
+https://outlook.live.com 
+https://protonmail.com 
+https://tutanota.com
+https://www.zoho.com/mail/
+https://www.thexyz.com
+https://www.startmail.com
+https://countermail.com
+https://posteo.de/en
+
+
+Cloud storage :-
+https://www.zippyshare.com
+https://bit.ai
+https://jumpshare.com
+https://www.microsoft.com/en-in/microsoft-365/onedrive/online-cloud-storage
+https://www.box.com/en-in/home
+https://www.hightail.com
+https://www.dropsend.com
+
+
+Upload files and earn money :- 
+https://www.upload-4ever.com
+https://dropgalaxy.com
+https://www.indishare.org
+https://www.file-upload.com/
+https://up-load.io
+
+
+Download movie :-
+https://fullmoviesfreedownload.co/tag/movieflixter
+https://o2tvseries.in
+https://yts.rs
+https://youtube.com
+https://azmovie.to
+https://ww1.1337x.buzz
+
+
+Cracking software :-
+https://www.techno360.in
+https://sharewareonsale.com
+https://giveaway.tickcoupon.com
+https://getintopc.com
+https://rarbg.to 
+https://torrents.me
+http://torrentdb.li
+https://www.limetorrents.cc
+
+
+Game hacking :-
+https://xmodgames.apkiz.com/download-xmod-games/
+https://www.luckypatchers.com/download/
+https://sbgamehacker.net
+https://hackerbot.net
+https://gamekiller.co
+https://creehacks.net
+https://www.cheatengine.org
+https://www.bignox.com
+
+
+Build application without coding :-
+https://www.andromo.com
+https://appsgeyser.com
+https://www.appypie.com/app-builder/appmaker
+https://gamesalad.com
+https://www.appypie.com
+https://appery.io
+
+
+For students :-
+https://www.edx.org
+https://academicearth.org
+https://archive.org
+https://bigthink.com
+https://www.brightstorm.com
+https://cosmolearning.org
+https://thefutureschannel.com
+https://www.howcast.com
+https://www.khanacademy.org
+
+
+Code editor ( android ) :- 
+Dcoder :- https://bit.ly/37dFg0I
+Quoda Code Editor :- https://bit.ly/37f9Jf4
+QuickEdit :- https://bit.ly/3zRUCUW
+DroidEdit :- https://bit.ly/2V1PUFz
+Turbo-Editor :- https://bit.ly/3ljibCc
+
+
+Presonal data leak checker :-
+https://haveibeenpwned.com
+https://breachalarm.com
+https://www.dehashed.com
+https://sitecheck.sucuri.net
+
+
+Premium accounts :-
+https://www.nulled.to
+http://password-login.com
+http://bugmenot.com
+https://breachforums.com.cutestat.com
+https://www.ax0nes.com
+https://cracked.to
+https://crackingking.com
+https://www.crackingpro.com
+https://crackingtutor1al.blogspot.com/?m=1
+
+
+Best game development engines :-
+https://www.cryengine.com
+https://unity.com
+https://www.yoyogames.com/en/gamemaker
+https://godotengine.org
+https://www.cocos.com/en/
+
+
+Information Gathering with online websites :-
+https://sitereport.netcraft.com
+https://www.yougetsignal.com/tools/web-sites-on-web-server/
+Robots.txt
+🥳Antivirus Course By Linuxndroid (Youtuber) 🥳🥳
+
+Ⓜ️ Description Ⓜ️:- 
+
+🎭Welcome to my New Malware FUD And Hacking Course.
+🎭In this Course you get to see many methods and techniques of Fud Hacking. 
+🎭And also in this course you     will know learn how Fud Hacking Works. 
+🎭How you can Secure Android Phone. If you want to learn all these thing in detail, then you can go for it.
+
+🥰What You will Learn 🥰
+🎩Reverse Engineering 
+🎩Malware Fud 
+🎩How Antivirus Work 
+🎩How Android Code Work 
+🎩How Google Security Work
+
+⭕Download link ⭕:-👇
+
+https://drive.google.com/uc?id=1hi1Zx9vlN3UUp3n-tXj2gTiEaTwpghdU&export=download 
+
+🔓Password :- @Anon_security_solutions
+70 GB of information about of hacking, cracking, courses, etc 
+
+https://mega.nz/#F!wxcWhZTR!_O2X8gSyQR3apccMTXG27g  
+
+https://mega.nz/#F!tIsiQTBZ!MaIkMqadIFDjkT0PtpxYdg
+Los Increibles - CARTON FILM HD
+
+https://mega.nz/#F!y4l0wbxC!1r5KXChbG3dYjNhZYHb3zg
+2 MANY COURSES & BOOKS
+
+https://mega.nz/F!IUAGTAAb!bsOdM6-XG6BBcoKh638REQ!scoCGKQL#F!IUAGTAAb!bsOdM6-XG6BBcoKh638REQ
+SpyNote V2
+- Android RAT
+Download: 
+https://mega.nz/#!sipRwIgI!4mw04RpqMcqNZ1TPSISpy40TMO8F6IjDRY64J-JQQ4o
+Password: ex0dus    
+—----------------------------------------------------------------------------------
+Quasar RAT
+- OpenSource RAT
+Download: 
+https://mega.nz/#!Yv5TFQBC!fMd3tTVNCyCrrQ5h_l0b0kAbEbMRry8iAlmFkcTl4EM
+Password: ex0dus  
+—---------------------------------------------------------------------------------
+SkyWyder RAT
+- Features login grabber.
+Download: 
+https://mega.nz/#!UzQVgYib!Tb-kjouXlj-aVrMr7omuw0xyRJV8wjtL1tRwCiQZ30I
+Password: ex0dus
+—------------------------------------------------------------------------------—
+AcormRAT
+- Piece of shit
+Download: 
+https://mega.nz/#!wnp1DJ4S!-3atNdaIONUTfjoAJnQr9YgJvf0_9L9c9LL3f9vN684
+Password: ex0dus
+—------------------------------------------------------------------------------—
+Orcus RAT
+Download: 
+https://mega.nz/#!Nuwz2b7A!GxHCsv_3TT5C4gJnymtogtyNl2daCoeWDofF9fh0fkc
+Password: ex0dus  
+—---------------------------------------------------
+Ozone RAT - C++
+Download: 
+https://mega.nz/#!BvIllLCD!BjroMI2Cxl6PWSl3UBZ72rKXu2N6OgJ7SIjHiw9vlds
+Password: ex0dus  
+—-------------------------------------------------------------------------------
+NanoCore
+Download: 
+https://mega.nz/#!V7xS1ahb!QnThBEOFTtLIPKYE1KtJYRiidA9N5epWnrXFUfPt3p8
+Password: ex0dus  
+
+
+njRAT 0.7d
+Download:
+https://mega.nz/#!cvoEmR4J!d6vfQKAWuNJclLDld5J02UenSzleOzJgYWoUTxB5tTo
+Password: ex0dus  
+—---------------------------------------------------
+DarkTrack 4.0
+- No descr.
+Download: 
+https://mega.nz/#!QvAQ1IpR!6eobpjFf9bfyzostusYY7__dSg2qTJg5v24K0TQbpws
+Password: ex0dus  
+—---------------------------------------------------
+Babylon RAT
+Download: 
+https://mega.nz/#!cvoEmR4J!d6vfQKAWuNJclLDld5J02UenSzleOzJgYWoUTxB5tTo
+Password: ex0dus   
+
+—------------------------------------------------------------------------—
+Loki PWS
+Download: 
+https://mega.nz/#!1zhQXQqQ!dUoDYS3f1JpjmeQEohICI7N8eVtytDyFTOqFndcjVoI
+Password: ex0dus    
+—------------------------------------------------------------------—
+Pony Stealer 1.9
+- Builder
+- Panel
+Download: 
+https://mega.nz/#!5m5SEaqQ!PZoyvLP5rPAp-F7jiKmuF_lnsPlk68s9oMshjAsbrQE
+Password: ex0dus
+—-------------------------—------------------------
+Pony Stealer 2.0
+- Full Source
+- Builder
+- Panel
+Download:
+https://mega.nz/#!RmpURbCb!7CooaXNRd8_9qhtksDvZQUMUdrWFsM6gbCVe-2DB2HU
+Password: ex0dus
+✅CODE WITH MOSH WEB DEVELOPMENT COURSE 
+
+👉https://mega.nz/folder/8xk2WAaR
+ 5P0XhPSdKFk492VFBkIa3g
+
+👉https://mega.nz/folder/xgtCWAbS
+FjWkA2jgJNje8g2xm631Zw
+
+👉https://mega.nz/folder/Q4kUyCYJ
+5vGwNweX2by4x1ahNWs7yA
+
+⚠️Included decryption key tap to copy. Just below the every mega link given up there
+C++ language complete course
+
+Download link-
+https://drive.google.com/drive/mobile/folders/1FwSPW4RnG7Rzk3e-ISiS6JZ9dpVvF4We
+Full length course for GitHub
+
+https://mega.nz/folder/R4t2UJoZ#ZnJzrldOeASGFZMarejuvQ
+COMPLETE COURSE FOR AWS CLI
+
+https://drive.google.com/drive/folders/1k_LIrEqgB4Ndo7Vc7O0hosbNdoW4BwIS
+https://drive.google.com/drive/folders/1eS3H_LIDFXvbssSf6zaIBacCGMGTCQBa
+All Famous Courses in 1 
+
+✅ Abdul Bari
+
+✅ Coding Block
+
+✅ Coding Minutes
+
+✅ Coding Ninja
+
+✅ Course Collection
+
+✅ GeeksOfGeeks
+
+✅ Udacity Course
+
+https://drive.google.com/folderview?id=1oj6q7Ram4JGSWeNrrTExYKydT5ATndZb
+https://onlinecourses.nptel.ac.in/noc22_cs31/preview
+
+#Freehai 🤗
+https://mega.nz/#F!StR2hazK!svXMotcweuDvgi7KPYdnNg
+!!Python 3 for absolute beginners!!
+
+https://mega.nz/#F!MEMDwS6J!TyZGki9AZCey9PfSQE3Zfg
+IIT Kharagpur has created National Digital Library for students for all subjects.  Below is the link
+:
+
+          ndl.iitkgp.ac.in.
+
+It contains 4 crore 6O lakh books.  Please share this information as much as possible for students to know & avail of this priceless facility for academic knowledge.
+Name:
+Full ASP.NET by eShikhon
+
+https://mega.nz/folder/a2pyiaxB#PzPrsl0yDgnzBntuW4VZiA/folder/X6JmVJQB
+
+
+ull ASP.NET by eShikhon
+
+https://mega.nz/folder/a2pyiaxB#PzPrsl0yDgnzBntuW4VZiA
+
+
+he MERN Stack! - Full Stack Web Development (JS) - Bohubrihi
+
+https://mega.nz/folder/BpBxDCRK#PCKDO1IHHOMhMy96yF0AkA
+
+
+
+https://supplementmillionaire.com/
+
+https://mega.nz/folder/2WpFwIpR#9qIBJbfmAOqHijVSl4hhCA
+
+https://www.nirandfar.com/focus/
+https://mega.nz/folder/aolBQSpA#ni6O17-qVgXD9a8THblhfw
+🔰 Artificial Intelligence A - Z 
+
+https://mega.nz/folder/5OZk0JyS#P163w9d0AZfHk_CuL3X9Mw
+Udemy-The Complete Guide to C# & Unity Programming – Build an RPG:-
+
+Master Unity Engine (2021) and C# Programing By Creating A Role-Playing Game Using Modern Unity Development Technics
+
+Source Link:- https://www.udemy.com/course/the-complete-guide-to-c-unity-programming-build-an-rpg/
+
+Download Link:- 
+https://drive.google.com/drive/folders/1fJ8dqfFXrskBGDTgs3gAEGO--mc02W9U
+Learn Complete Python In Simple Way  
+
+Direct Class Room Videos To Give Left & Right Anywhere About Python 3 Concepts In Detail From Beginner to Expert Level
+
+Free Download Link:
+https://bit.ly/3fTDhmg
+https://mega.nz/folder/xDBggB5R#__8JJX9IVYZKaOxNTWX2ww
+✅ | Udemy DUMP Paid Courses 700GB+ | 
+
+Part 1  https://mega.nz/folder/efY0AR4T#0jnk5etjz1jfX2kmhvdJYw
+
+Part 2  https://mega.nz/folder/1DRUUBoR#K1ywmHQSe3SnqjpWkV0o7g
+
+Part 3  https://mega.nz/folder/FSZHwKBa#iGFBQB78N-gUs4KCl31B9g
+
+Part 4  https://mega.nz/folder/11IDBAgA#aZ0mCPN8EuwX3lP3tBT7Zw
+
+Part 5  https://mega.nz/folder/gxIHkQaa#CKCdB3_bO0bKYG36fen4OQ
+
+Part 6  https://mega.nz/folder/wt5HGICC#TnMvorTOW_k3hsTHEW4x9w
+
+Part 7  https://mega.nz/folder/GF5zTIbJ#UcubyKl1B2YW0HiaMmim9Q
+
+Part 8  https://mega.nz/folder/DUwSWLpT#fbqm6GMSIhB45PZqZv35jA
+
+Part 9  https://mega.nz/folder/TE50iBiB#m-tntw3K8FPlOQV8gSS1CQ
+
+Part 10  https://mega.nz/folder/3GhkAJwD#gRdopc_Uz23qmxPxi3rWgQ
+
+Part 11  https://mega.nz/folder/XHoiCDgC#oMbKU6pHPzV-6l9qBQcBbw
+
+Part 12  https://mega.nz/folder/KLA0QTzL#8ybhyC9sSkArGXudQvKTrw
+
+Part 13  https://mega.nz/folder/xDBggB5R#__8JJX9IVYZKaOxNTWX2ww
+🔥DSA PDFs/Books 🔥
+
+ Here is a free DSA book for you 
+
+https://drive.google.com/drive/folders/1YCtYaSzzuqNulW6c7Rz_D735jzubxwI2?usp=sharing
+https://1drv.ms/u/s!BFSJGTP4uDYFkwHnArqDJ-P_oSI-?e=jnkMv3
+https://gate.appliedroots.com/gate-cs-notes
+
+complete notes
+
+https://mega.nz/folder/zgASxDKT#yypvhMYkO7hDhKvU5qXnqA/folder/WxgmXAIZ
+Machine learning
+
+https://drive.google.com/folderview?id=1bFcmRP5EAtksPtjiuV9qpHyNK6sci8WM
+Data Structures and Algorithms In C
+
+Data Structures and Algorithms in C Using Data Structures Algorithms with C Data Structures Algorithms C leetcode DSA C
+
+Here we have it 
+https://mega.nz/folder/P1lGlaaL#TeI1UWWPIAgjju6VghRxMQ
+Udemy Paid Courses 700GB+
+
+Part 1  https://mega.nz/folder/efY0AR4T#0jnk5etjz1jfX2kmhvdJYw
+Part 2  https://mega.nz/folder/1DRUUBoR#K1ywmHQSe3SnqjpWkV0o7g
+Part 3  https://mega.nz/folder/FSZHwKBa#iGFBQB78N-gUs4KCl31B9g
+Part 4  https://mega.nz/folder/11IDBAgA#aZ0mCPN8EuwX3lP3tBT7Zw
+Part 5  https://mega.nz/folder/gxIHkQaa#CKCdB3_bO0bKYG36fen4OQ
+Part 6  https://mega.nz/folder/wt5HGICC#TnMvorTOW_k3hsTHEW4x9w
+Part 7  https://mega.nz/folder/GF5zTIbJ#UcubyKl1B2YW0HiaMmim9Q
+Part 8  https://mega.nz/folder/DUwSWLpT#fbqm6GMSIhB45PZqZv35jA
+Part 9  https://mega.nz/folder/TE50iBiB#m-tntw3K8FPlOQV8gSS1CQ
+Part 10  https://mega.nz/folder/3GhkAJwD#gRdopc_Uz23qmxPxi3rWgQ
+Part 11  https://mega.nz/folder/XHoiCDgC#oMbKU6pHPzV-6l9qBQcBbw
+Part 12  https://mega.nz/folder/KLA0QTzL#8ybhyC9sSkArGXudQvKTrw
+Part 13  https://mega.nz/folder/xDBggB5R#__8JJX9IVYZKaOxNTWX2ww
+​​Practical Ethical Hacking - The Complete Course 
+
+Learn How To Hack Like A Pro. Up To Date Practical Hacking Techniques With Absolutely No Filler.
+
+
+
+Free Download Link: https://bit.ly/3wKYPs6
+An important collection of the 15 best machine learning cheat sheets.
+
+1- Supervised Learning
+
+https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-supervised-learning.pdf
+
+2- Unsupervised Learning
+
+https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-unsupervised-learning.pdf
+
+3- Deep Learning
+
+https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-deep-learning.pdf
+
+4- Machine Learning Tips and Tricks
+
+https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/cheatsheet-machine-learning-tips-and-tricks.pdf
+
+5- Probabilities and Statistics
+
+https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-probabilities-statistics.pdf
+
+6- Comprehensive Stanford Master Cheat Sheet
+
+https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf
+
+7- Linear Algebra and Calculus
+
+https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/refresher-algebra-calculus.pdf
+
+8- Data Science Cheat Sheet
+
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
+
+9- Keras Cheat Sheet
+
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf
+
+10- Deep Learning with Keras Cheat Sheet
+
+https://github.com/rstudio/cheatsheets/raw/master/keras.pdf
+
+11- Visual Guide to Neural Network Infrastructures
+
+http://www.asimovinstitute.org/wp-content/uploads/2016/09/neuralnetworks.png
+
+12- Skicit-Learn Python Cheat Sheet
+
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf
+
+13- Scikit-learn Cheat Sheet: Choosing the Right Estimator
+
+https://scikit-learn.org/stable/tutorial/machine_learning_map/
+
+14- Tensorflow Cheat Sheet
+
+https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Tensorflow.pdf
+
+15- Machine Learning Test Cheat Sheet
+
+https://www.cheatography.com/lulu-0012/cheat-sheets/test-ml/pdf/programming
+​​ Learn Complete Python In Simple Way  
+
+Direct Class Room Videos To Give Left & Right Anywhere About Python 3 Concepts In Detail From Beginner to Expert Level
+
+
+
+Free Download Link:
+https://bit.ly/3fTDhmg
+https://dare2compete.com/
+
+Here you can find different type of HACKATHONS and coding contests
+Students studying in 1st and 2nd year can follow a great and free resource compiled at a place for learning core CS subjects. 
+ https://github.com/ossu/computer-science
+Name:
+Full ASP.NET by eShikhon
+
+https://mega.nz/folder/a2pyiaxB#PzPrsl0yDgnzBntuW4VZiA/folder/X6JmVJQB
+
+
+ull ASP.NET by eShikhon
+
+https://mega.nz/folder/a2pyiaxB#PzPrsl0yDgnzBntuW4VZiA
+
+
+he MERN Stack! - Full Stack Web Development (JS) - Bohubrihi
+
+https://mega.nz/folder/BpBxDCRK#PCKDO1IHHOMhMy96yF0AkA
+
+
+
+https://supplementmillionaire.com/
+
+https://mega.nz/folder/2WpFwIpR#9qIBJbfmAOqHijVSl4hhCA
+
+https://www.nirandfar.com/focus/
+https://mega.nz/folder/aolBQSpA#ni6O17-qVgXD9a8THblhfw
+🔰 Artificial Intelligence A - Z 
+
+https://mega.nz/folder/5OZk0JyS#P163w9d0AZfHk_CuL3X9Mw
+Udemy-The Complete Guide to C# & Unity Programming – Build an RPG:-
+
+Master Unity Engine (2021) and C# Programing By Creating A Role-Playing Game Using Modern Unity Development Technics
+
+Source Link:- https://www.udemy.com/course/the-complete-guide-to-c-unity-programming-build-an-rpg/
+
+Download Link:- 
+https://drive.google.com/drive/folders/1fJ8dqfFXrskBGDTgs3gAEGO--mc02W9U
+Learn Complete Python In Simple Way  
+
+Direct Class Room Videos To Give Left & Right Anywhere About Python 3 Concepts In Detail From Beginner to Expert Level
+
+Free Download Link:
+https://bit.ly/3fTDhmg
+30-DSA🔰Complete Introduction to the 30 most essential Data Structures & Algorithms, 💯FREE🤩
+
+https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd
+
+Hope it helps🤟
+Previously shared resources 👉 https://tiny.one/FREELearningResources
+https://mega.nz/folder/xDBggB5R#__8JJX9IVYZKaOxNTWX2ww
+TCS Placement Materials 
+https://drive.google.com/drive/folders/1I8QqnzZonRewbSnUMyfC9-tRduEJ4gyB
+
+HCL Placements Materials
+
+https://drive.google.com/drive/folders/175aR1q_FR5Q7louoLw1TkRxG0O-DAOxr
+
+Capgemini
+
+https://drive.google.com/drive/folders/1K9WddD5IigS2cYCbESG6vvvMhrsWBmQa
+
+1. All Placement Materials Drive Links:
+
+TCS:
+ https://drive.google.com/open?id=1XN8w1Q9akk1IagpaSPDKVowlVCQJ1tV8
+
+CTS:
+ https://drive.google.com/open?id=1a-HWjvdfAb4t3xo0O_R8_kwlqGs6Ipt- 
+
+TEK SYSTEMS:
+ https://drive.google.com/open?id=1wsJFR1RNpzcDWcecYkx7Ke5EtvUa3b7i
+
+
+TECH MAHINDRA :
+ https://drive.google.com/open?id=1ltJ4CSu-6rSCOgjLKtFC6LIwfVej5NXl
+
+WIPRO:
+ https://drive.google.com/open?id=15WDPKzntkQ0ux1-qXZhQ6MQ-IjSgYZWE
+
+INFOSYS:
+ https://drive.google.com/open?id=1A0so4BGzkynu4k9T0hl-c6yokMBlMQiF
+
+
+MINDTREE:
+ https://drive.google.com/open?id=1dkBNs61BGmaQ8bvMDMlNO2ENDtCcNSdp
+
+VALUE LABS:
+ https://drive.google.com/open?id=1MC6LwK5zoTIDkmjZHgm2TxnHPGxGnrHJ
+
+MPHASIS:
+ https://drive.google.com/open?id=1s4ExADXgIicpTaNjLj5Et6yv4UaPqXaT
+
+
+ZENQ:
+ https://drive.google.com/open?id=1FjZxLhhMSNhnkru1pZEGjD1-w8XJPTZQ
+
+EPAM:
+ https://drive.google.com/open?id=14kYwuvk3DiCp_c67Qhdm5j8MQ9ctPmRm
+
+GATE: https://drive.google.com/open?id=1996QqgIeETZQ2o7Lpomh8-fSl49tlckz
+
+
+AMCAT:
+
+ https://drive.google.com/open?id=1vPCyQnc844BK9jsTKQ7WIzcGpx3r3J-d
+
+ELITMUS: https://drive.google.com/open?id=154gp-J7a43zDe2lwvwZPQ0uvEnU7SYF1
+
+TALENT BATTLE:
+ https://drive.google.com/open?id=1wIUuyPIS41jKHTrA_1RyMX1hBNWJ0TFS
+
+
+Sample C Programs:
+ https://drive.google.com/drive/u/3/folders/1pO69Sp5N3sSKCD2GeMKUvmiOQPxQDAhU?usp=gmail
+
+RS AGARWAL: https://drive.google.com/open?id=1nq4YFOp4zFrLu0zj8uIV8u3DZfVMRQyp
+
+TR & HR Preparation:**
+ https://drive.google.com/open?id=1jkLdSlyv-zAx3a8G-EZ38eXQV_AGjci4
+🔰 *All Type of Campus Placement Previous Material* 🔰
+
+Contain:- 100+ Companies SIze 30 GB+
+⭕Download link:- https://drive.google.com/drive/folders/1SkCOcAS0Kqvuz-MJkkjbFr1GSue6Ms6m
+🔰700GB+ Of Udemy premium courses 
+
+The files are cut into 13 folder, you can download or search for any course you are interested in 
+
+- Most of the courses are 2020/2021 new courses  <3 
+-
+
+- https://mega.nz/folder/efY0AR4T#0jnk5etjz1jfX2kmhvdJYw
+
+- https://mega.nz/folder/1DRUUBoR#K1ywmHQSe3SnqjpWkV0o7g
+
+- https://mega.nz/folder/FSZHwKBa#iGFBQB78N-gUs4KCl31B9g
+
+- https://mega.nz/folder/11IDBAgA#aZ0mCPN8EuwX3lP3tBT7Zw
+
+- https://mega.nz/folder/gxIHkQaa#CKCdB3_bO0bKYG36fen4OQ
+
+- https://mega.nz/folder/wt5HGICC#TnMvorTOW_k3hsTHEW4x9w
+
+- https://mega.nz/folder/GF5zTIbJ#UcubyKl1B2YW0HiaMmim9Q
+
+- https://mega.nz/folder/DUwSWLpT#fbqm6GMSIhB45PZqZv35jA
+
+- https://mega.nz/folder/TE50iBiB#m-tntw3K8FPlOQV8gSS1CQ
+
+- https://mega.nz/folder/3GhkAJwD#gRdopc_Uz23qmxPxi3rWgQ
+
+- https://mega.nz/folder/XHoiCDgC#oMbKU6pHPzV-6l9qBQcBbw
+
+- https://mega.nz/folder/KLA0QTz8ybhyC9sSkArGXudQvKTrw
+
+- https://mega.nz/folder/xDBggB5R#__8JJX9IVYZKaOxNTWX2ww
+
+mega.nz
